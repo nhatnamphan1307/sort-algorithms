@@ -1,2 +1,2 @@
 # sort-algorithms
-Small comparing between sort algorithms' runtime.
+A small comparison between sort algorithms' runtime.
